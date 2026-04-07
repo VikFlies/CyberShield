@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# CyberShield
 
-TODO: Document your project here
+Plateforme de sensibilisation à la cybersécurité par SecureNova.
